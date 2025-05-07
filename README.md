@@ -37,7 +37,7 @@ pip install -r requirements.txt
      - user_name
 
 2. 配置信息
-   - 打开 `safe_course.py`
+   - 打开 `WeibanHelper.py`
    - 修改 `user_config` 中的配置信息
 
 3. 运行脚本
