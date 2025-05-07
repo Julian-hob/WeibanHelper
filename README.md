@@ -54,7 +54,7 @@ user_config = {
     'cookie': '你的cookie',
     'user_name': '你的user_name',
     'x_token': '你的x_token',
-    'tenant_code': 你的tenant_code
+    'tenant_code': '你的tenant_code'
 }
 ```
 
